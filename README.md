@@ -2,11 +2,6 @@
 
 Clean GitHub-ready code for generating Fried frailty status, selecting a low-redundancy Digital Mobility Outcome (DMO) feature set, and running machine-learning models for frailty classification.
 
-## Authors
-
-- Valerio Antonio Arcobelli
-- Jose Albites Sanabria
-
 ## Repository structure
 
 ```text
@@ -14,7 +9,6 @@ frailty_dmo_ml_github/
 ├── README.md
 ├── AUTHORS.md
 ├── requirements.txt
-├── .gitignore
 └── scripts/
     ├── generate_fried_status.py
     ├── supportFrailty.py
