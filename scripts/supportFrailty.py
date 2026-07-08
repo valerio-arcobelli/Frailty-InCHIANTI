@@ -10,7 +10,6 @@ by the orthogonal-feature and machine-learning scripts.
 Authors
 -------
 Valerio Antonio Arcobelli
-Jose Albites Sanabria
 """
 
 from __future__ import annotations
