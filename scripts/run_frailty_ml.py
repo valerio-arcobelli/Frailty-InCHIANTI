@@ -14,7 +14,6 @@ The default analysis uses two feature sets:
 Authors
 -------
 Valerio Antonio Arcobelli
-Jose Albites Sanabria
 
 Example
 -------
