@@ -9,7 +9,6 @@ feature set for downstream frailty machine-learning models.
 Authors
 -------
 Valerio Antonio Arcobelli
-Jose Albites Sanabria
 
 Example
 -------
